@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "706205290024",
+    "firebase_url": "https://smart-dressing-users-default-rtdb.firebaseio.com",
+    "project_id": "smart-dressing-users",
+    "storage_bucket": "smart-dressing-users.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706205290024:android:600d112257ceab54dd6f1d",
+        "android_client_info": {
+          "package_name": "com.freelanced_hunarmand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706205290024-01dchkktatepkcl49tehdp18u0bf9n2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freelanced_hunarmand",
+            "certificate_hash": "f02415d985266681538c976caf5009cee088ebdb"
+          }
+        },
+        {
+          "client_id": "706205290024-6569kg8n0na85872fmui3bfe4er80i7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuEJRNydgQsrrOcIMYzduouMBWYxtSYes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706205290024-6569kg8n0na85872fmui3bfe4er80i7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
